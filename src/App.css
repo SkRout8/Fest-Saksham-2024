@@ -85,14 +85,16 @@
   -webkit-background-clip: text;
   text-fill-color: transparent;
   -webkit-text-fill-color: transparent;
+  margin-left: 172px;
+  position: relative;
+  left: -100px ;
 
 
 
 
 
 
-
-  text-align: start;
+  
   
 
 
@@ -380,6 +382,13 @@ input {
   }
 
 }
+/* @media screen and (max-width: 500px) and (min-width: 410px){
+  .text1{
+    margin-left: 35px ;
+   
+    
+  }
+} */
 
 @media screen and (max-width: 600px) {
   
@@ -396,7 +405,7 @@ input {
   
   }
   .text1{
-    margin-left: 24px 
+   text-align: center;
   }
 
   .main-div {
