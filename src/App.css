@@ -25,7 +25,7 @@
 .sk {
 
   color: #69edf0;
-  margin-left: -150px;
+  margin-left: -32px;
 
 
   /** TEXT GRADIENT */
@@ -64,7 +64,7 @@
 }
 .btn1{
   /* margin-left: -100px; */
-  margin-left: -130px;
+  margin-left: -177px;
 }
 
 .Text-anim {
@@ -429,7 +429,9 @@ input {
   .Acco2 {
     margin-top: 150px;
   }
-
+.Acco1{
+  font-size: 30px;
+}
   
 
   
