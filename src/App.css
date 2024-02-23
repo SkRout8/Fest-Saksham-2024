@@ -63,7 +63,8 @@
   margin-right: 170px;
 }
 .btn1{
-  margin-left: -300px;
+  /* margin-left: -100px; */
+  margin-left: -130px;
 }
 
 .Text-anim {
@@ -382,15 +383,15 @@ input {
   }
 
 }
-/* @media screen and (max-width: 500px) and (min-width: 410px){
-  .text1{
-    margin-left: 35px ;
-   
-    
-  }
-} */
+
 
 @media screen and (max-width: 600px) {
+
+
+  .btn1{
+    
+    margin-left: -17px;
+  }
   
   .sd-div{
     flex-wrap: wrap;
@@ -429,15 +430,13 @@ input {
     margin-top: 150px;
   }
 
-  .btn1{
-    margin-left: -186px;
-  }
+  
 
   
  
     
-  
-  
+ 
+ 
   
   
 
