@@ -38,7 +38,7 @@ const Home = ({ isLoggedIn }) => {
             </p>
             <button className='btn1  mt-4 text-white w-40 h-10 text-center   bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... rounded 	  hover: animate-bounce'>
                <div className='  text-center '>
-                <Link to="/Accomondation ></Link>
+                <Link to="/Accomondation" >GetStarted</Link>
                </div>
             </button>
           </div>
