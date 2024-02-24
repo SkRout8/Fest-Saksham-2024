@@ -3,6 +3,7 @@ import React from 'react'
 import Anim from '../assets/Anim.json'
 import Lottie from 'lottie-react'
 import Navbar from '../components/Navbar'
+import {Link} from 'react-router-dom'
 
 const Home = ({ isLoggedIn }) => {
   return (
@@ -37,7 +38,7 @@ const Home = ({ isLoggedIn }) => {
             </p>
             <button className='btn1  mt-4 text-white w-40 h-10 text-center   bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... rounded 	  hover: animate-bounce'>
                <div className='  text-center '>
-               Get Started
+                <Link to="/Accomondation ></Link>
                </div>
             </button>
           </div>
