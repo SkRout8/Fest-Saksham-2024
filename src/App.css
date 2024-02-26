@@ -154,6 +154,26 @@
 
 
 }
+.Acco5 {
+
+
+  /** TEXT GRADIENT */
+  color: #a6febd;
+  background-image: -webkit-linear-gradient(0deg, #a6febd 0%, #cb22c8 33%, #1fb1e7 67%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+
+
+  font-size: 50px;
+  font-family: "Viga", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
 
 .screen-bar3 {
   margin-top: 95px;
@@ -387,7 +407,11 @@ input {
 
 @media screen and (max-width: 600px) {
 
-
+  .Acco5{
+    text-align: center;
+      font-size: 20px;
+      color: white;
+  }
   .btn1{
     
     margin-left: -17px;
@@ -430,7 +454,7 @@ input {
     margin-top: 150px;
   }
 .Acco1{
-  font-size: 30px;
+  font-size: 40px;
 }
   
 
