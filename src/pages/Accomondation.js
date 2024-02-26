@@ -4,7 +4,7 @@ function Accomondation() {
   return (
     <>
       <div className='screen-bar3 '>
-        <h1 className='Acco1 text-center '>Accomondation At Saksham</h1>
+        <h1 className='Acco1 text-center '>Accommondation At Saksham</h1>
         <p className='Acco1 text-center'>Srinix College Of Engineering,Balasore</p>
 
         <section class=" Acco2 text-gray-400 body-font overflow-hidden">
