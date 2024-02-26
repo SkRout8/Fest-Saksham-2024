@@ -28,7 +28,7 @@ const Navbar = (props) => {
       <ul>
         <li><Link className="active hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ..." to="/">Home</Link></li>
         <li><Link className ='hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ...'to="/Events">Events</Link></li>
-        <li><Link className='hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ...' to="/Accomondation">Accomondation</Link></li>
+        <li><Link className='hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ...' to="/Accomondation">Accommondation</Link></li>
         <li><Link className='hover:bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ...' to="/Contact">Contact</Link></li>
       </ul>
     </nav>
